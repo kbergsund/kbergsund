@@ -7,9 +7,9 @@
   <li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
 </ul>
 <h3><em>Get in touch:</em></h3>
-<a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail icon"/></a>
-<a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn icon"/></a>
-<br><br>
+<a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
+<a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn icon"/></a>
+<br><br><br>
 <div style="text-align:center;display:flex;justify-content:center;">
   <a href="https://www.codewars.com/users/kbergsund"><img src="https://www.codewars.com/users/kbergsund/badges/micro" height="30" alt="Codewars stats"/></a>
   <br>
