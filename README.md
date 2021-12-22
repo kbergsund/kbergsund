@@ -3,7 +3,7 @@
 <ul>
   <li>👨🏼‍💻 I'm looking for full-time work! See <a href="https://drive.google.com/file/d/1ReiZx3AbpIKwsN9LPaI3szeI8dLiiqm7/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team.
   <li>🔭 I’m currently working on... graduating from Turing School of Software & Design's Front-End Engineering program, which involves 1700+ hours of technical instruction/independent study, 15 solo & group projects, and various job-readiness courses/exercises.</li>
-  <li>🌱 I’m currently learning... React & React Context API. Next up, Python.</li> 
+  <li>🌱 I’m currently learning... React & React Context API. Next up, React Native & Python.</li> 
   <li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
 </ul>
 <a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
