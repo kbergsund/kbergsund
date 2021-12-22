@@ -13,8 +13,8 @@
 <a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn icon"/></a>
 
 <br>
-<div style="text-align:center;">
-  <a href="https://www.codewars.com/users/kbergsund" style="display:block;"><img src="https://www.codewars.com/users/kbergsund/badges/micro" height="25" alt="Codewars stats"/></a>
+<div style="text-align:center;display:flex;flex-direction:column">
+  <a href="https://www.codewars.com/users/kbergsund"><img src="https://www.codewars.com/users/kbergsund/badges/micro" height="25" alt="Codewars stats"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=kbergsund&show_icons=true&theme=tokyonight&custom_title=Kyra's+Github+Stats" height="130" alt="Kyra's Github stats visualization"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbergsund&layout=compact&theme=tokyonight" height="115" alt="Kyra's most used languages visualization"/>
 </div>
@@ -23,7 +23,9 @@
 
 <h3>💾 My Stack</h3>
 <h4><em>Languages:</em></h4>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" alt="Javascript icon"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5 icon"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="CSS3 icon"/><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25" alt="JSON icon"/>
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" alt="Javascript icon"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5 icon"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="CSS3 icon"/><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25" alt="JSON icon"/>
+</div>
 
 <br>
 <h4><em>Frameworks:</em></h4>
