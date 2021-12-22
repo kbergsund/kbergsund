@@ -2,7 +2,7 @@
 <p>🎧 Music festival production project manager turned software engineer. Specializing in front-end web apps using React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to increase human connection as well as access to outdoor recreation/education 🌲</p>
 <ul>
   <li>🔭 I’m currently working on... graduating from Turing School of Software & Design's Front-End Engineering program, which involves 1700+ hours of technical instruction/independent study, 15 solo & group projects, and various job-readiness courses/exercises.</li>
-  <li>🌱 I’m currently learning... React & React Context API.</li> 
+  <li>🌱 I’m currently learning... React & React Context API. Next up, Python.</li> 
   <li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
 </ul>
 <h3><em>Get in touch:</em></h3>
