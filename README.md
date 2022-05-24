@@ -2,7 +2,7 @@
 <p>🎧 Music festival production project manager turned software engineer specializing in front-end web apps using React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to bring people together and to broaden access to outdoor education, recreation, and sustainable living. I believe it is an avenue that will in turn inspire people to care more for each other and the world we live in. 🌲</p>
 <ul>
   <li>👨🏼‍💻 I'm looking for full-time work! See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team.
-  <li>🔭 I’m currently working on... graduating from Turing School of Software & Design's Front-End Engineering program, which involves 1700+ hours of technical instruction/independent study, 15 scratch-built solo & group projects, and various job-readiness courses/exercises.</li>
+<!--   <li>🔭 I’m currently working on... graduating from Turing School of Software & Design's Front-End Engineering program, which involves 1700+ hours of technical instruction/independent study, 15 scratch-built solo & group projects, and various job-readiness courses/exercises.</li> -->
   <li>🌱 I’m currently learning... Typescript. Thinking about React Native & Python next.</li> 
   <li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
 </ul>
