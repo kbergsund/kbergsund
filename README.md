@@ -1,10 +1,10 @@
 <h1><em>Greetings! I'm Kyra</em>🦉</h1>
-<p>🎧 Music festival production project manager turned software engineer specializing in front-end web apps using React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to bring people together and to broaden access to outdoor education, recreation, and sustainable living. I believe it is an avenue that will in turn inspire people to care more for each other and the world we live in. 🌲</p>
+<p>🎧 Music festival production project manager turned software engineer specializing in front-end web apps using React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to create community, connect with their passions, and broaden access to creative expression, outdoor education, and sustainable living. I believe it is an avenue that will in turn inspire people to care more for each other and the world we live in. 🌲</p>
 <ul>
-<!--   <li>👨🏼‍💻 I'm looking for full-time work! See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team. -->
-<!--   <li>🔭 I’m currently working on... graduating from Turing School of Software & Design's Front-End Engineering program, which involves 1700+ hours of technical instruction/independent study, 15 scratch-built solo & group projects, and various job-readiness courses/exercises.</li> -->
-<!--   <li>🌱 I’m currently learning... Typescript. Thinking about React Native & Python next.</li> 
-  <li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li> -->
+<!--   <li>👨🏼‍💻 See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team. -->
+<li>🔭 I’m currently working as... a Web Engineer at Output, a company that creates high-end music software and hardware for broad audiences (from professional producers to complete beginners). Check out <a href="https://www.output.com"/>our site</a> to learn more! </li>
+<li>🌱 I’m currently learning... Wordpress, PHP, Vue.</li> 
+<li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
 </ul>
 <a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
 <a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn icon"/></a>
