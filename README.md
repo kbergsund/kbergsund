@@ -1,10 +1,10 @@
 <h1><em>Greetings! I'm Kyra</em>🦉</h1>
-<p>🎧 Music festival production project manager turned software engineer specializing in front-end web apps using React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to create community, connect with their passions, and broaden access to creative expression, outdoor education, and sustainable living. I believe it is an avenue that will in turn inspire people to care more for each other and the world we live in. 🌲</p>
+<p>🎧 Music festival production project manager turned software engineer specializing in front-end web apps using Vue, React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to create community, connect with their passions, and broaden access to creative expression, outdoor education, and sustainable living. I believe it is an avenue that will in turn inspire people to care more for each other and the world we live in. 🌲</p>
 <ul>
 <!--   <li>👨🏼‍💻 See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team. -->
 <li>🔭 I’m currently working as... a Web Engineer at Output, a company that creates high-end music software and hardware for broad audiences (from professional producers to complete beginners). Check out <a href="https://www.output.com"/>our site</a> to learn more! </li>
-<li>🌱 I’m currently learning... Wordpress, PHP, Vue.</li> 
-<li>😄 I enjoy... spending time in forests and/or on beaches. Also, birding.</li>
+<li>🌱 I’m currently learning... Nuxt 3</li> 
+<li>😄 I enjoy... spending time in forests and/or on beaches.</li>
 </ul>
 <a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
 <a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn icon"/></a>
@@ -22,10 +22,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" alt="Javascript icon"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5 icon"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="CSS3 icon"/>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25" alt="JSON icon"/>
+  <img src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" alt="PHP icon"/>
 </div>
 <div>
   <h4><em>Frameworks:</em></h4>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25" alt="Vue icon"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React icon"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25" alt="React Router icon"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="25" alt="npm icon"/>
@@ -42,6 +43,7 @@
 </div>
 <div>
   <h4><em>Additional Tools:</em></h4>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25" alt="JSON icon"/>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="25" alt="EsLint icon"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma icon"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="25" alt="Adobe Illustrator icon"/>
