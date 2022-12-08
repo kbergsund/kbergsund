@@ -8,13 +8,10 @@
 </ul>
 <a href="mailto:k.bergsund@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
 <a href="https://www.linkedin.com/in/kyrabergsund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn icon"/></a>
-<br><br><br>
-<div style="text-align:center;display:flex;justify-content:center;">
-  <a href="https://www.codewars.com/users/kbergsund"><img src="https://www.codewars.com/users/kbergsund/badges/micro" height="30" alt="Codewars stats"/></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kbergsund&show_icons=true&theme=tokyonight&custom_title=Kyra's+Github+Stats" height="170" alt="Kyra's Github stats visualization"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbergsund&layout=compact&theme=tokyonight" height="140" alt="Kyra's most used languages visualization"/>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=kbergsund&show_icons=true&theme=tokyonight&custom_title=Kyra's+Github+Stats" height="170" alt="Kyra's Github stats visualization"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbergsund&layout=compact&theme=tokyonight" height="140" alt="Kyra's most used languages visualization"/>
 </div>
 <h3>💾 My Stack</h3>
 <div>
