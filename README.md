@@ -6,7 +6,7 @@
 <ul>
 <!--   <li>👨🏼‍💻 See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team. -->
 <li>🔭 I’m currently working as... a Web Engineer at Output, a company that creates high-end music software and hardware for broad audiences (from professional producers to complete beginners). Check out <a href="https://www.output.com"/>our site</a> to learn more! </li>
-<li>🌱 I’m currently learning... Nuxt 3</li> 
+<li>🌱 I’m currently learning... Nuxt 3, Vue 3, PHP, Wordpress</li> 
 <li>😄 I enjoy... spending time in forests and/or on beaches.</li>
 </ul>
 <br>
