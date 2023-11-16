@@ -5,8 +5,8 @@
 <p><br>🎧 Music festival production project manager turned product-minded software engineer specializing in front-end web apps using Vue, React, Javascript, HTML, CSS, and more. I am inspired by the potential for software products to create community, connect people with their passions, and broaden access to creative expression, outdoor education, and sustainable living. I believe meaningful software products can be an avenue for inspiring people to care more for each other and the world we live in. 🌲</p>
 <ul>
 <!--   <li>👨🏼‍💻 See <a href="https://drive.google.com/file/d/1MEx8n67UgSjPADeTwTX9qKvSWyd14rKT/view?usp=sharing">HERE</a> for my resume. I bring my eagerness to never stop learning, my enjoyment of solving problems in innovative ways, and my strengths in methodical organization and proactive communication to every team. -->
-<li>🔭 I’m currently working as... a Web Engineer at Output, a company that creates high-end music software and hardware for broad audiences (from professional producers to complete beginners). Check out <a href="https://www.output.com"/>our site</a> to learn more! </li>
-<li>🌱 I’m currently learning... Nuxt 3, Vue 3, PHP, Wordpress</li> 
+<li>🔭 I’m currently working as... a Engineer II at Output, a company that creates high-end music production software for broad audiences (from professional producers to complete beginners). Check out <a href="https://www.output.com"/>our site</a> to learn more! </li>
+<li>🌱 I’m currently learning... Vue 3, PHP, Wordpress</li> 
 <li>😄 I enjoy... spending time in forests and/or on beaches.</li>
 </ul>
 <br>
