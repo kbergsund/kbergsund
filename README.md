@@ -33,6 +33,7 @@
 </div>
 <div>
   <h4><em>Testing:</em></h4>
+  <img src="https://img.shields.io/badge/Playwright-228B22?style=for-the-badge&logo=playwright&logoColor=white" height="35" alt="Playwright icon"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="35" alt="Cypress icon"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" height="35" alt="Mocha icon"/>
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" height="35" alt="Chai icon"/>
