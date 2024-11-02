@@ -10,8 +10,8 @@
 <li>😄 I enjoy... spending time in forests and/or on beaches.</li>
 </ul>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kbergsund&show_icons=true&theme=tokyonight&custom_title=Kyra's+Github+Stats" height="190" alt="Kyra's Github stats visualization"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbergsund&layout=compact&theme=tokyonight" height="160" alt="Kyra's most used languages visualization"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kbergsund&show_icons=true&theme=tokyonight&custom_title=Kyra's+Github+Stats" height="190" alt="Kyra's Github stats visualization"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbergsund&layout=compact&theme=tokyonight" height="160" alt="Kyra's most used languages visualization"/> -->
 </div>
 <h3>💾 My Stack</h3>
 <div>
